@@ -1,4 +1,4 @@
-Sample Input 1:
+/*Sample Input 1:
 2
 6 3
 0 5 5 6 6 6
@@ -7,6 +7,7 @@ Sample Input 1:
 Sample Output 1:
 -1 -1 
 4 7
+*/
 
 #include <bits/stdc++.h> 
 int firstOcc(vector<int>& arr,int n,int k){
